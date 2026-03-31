@@ -1,0 +1,18 @@
+{
+  "name": "expensemanagerapplication",
+  "version": "1.0.0",
+  "description": "step 1: Create a express application for Expense Manger \r -> initialise the project \"npm init --y\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
