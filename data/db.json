@@ -1,0 +1,26 @@
+{
+  "usres": [
+    {
+      "id": "ae7c",
+      "username": "Dhinesh",
+      "email": "ddk@gmail.com",
+      "password": "dhinesh1989",
+      "mobilenumber": 99345667
+    },
+    {
+      "id": "3d3d",
+      "username": "kumar",
+      "email": "kumar@gmail.com",
+      "password": "kumar@1989",
+      "mobilenumber": 99345667
+    },
+    {
+      "id": "208c",
+      "username": "kumar123",
+      "email": "kumar@gmail.com",
+      "password": "kumar@1989",
+      "mobilenumber": 99345667
+    }
+  ],
+  "expanses": []
+}
